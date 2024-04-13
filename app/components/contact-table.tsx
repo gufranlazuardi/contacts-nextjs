@@ -5,20 +5,20 @@ const ContactTable = () => {
     <table className="w-full text-sm text-left">
       <thead className="text-sm">
         <tr>
-          <th>#</th>
-          <th>Name</th>
-          <th>Phone Number</th>
-          <th>Created At</th>
-          <th>Actions</th>
+          <th className=" px-3 py-6">#</th>
+          <th className=" px-3 py-6">Name</th>
+          <th className=" px-3 py-6">Phone Number</th>
+          <th className=" px-3 py-6">Created At</th>
+          <th className=" px-3 py-6">Actions</th>
         </tr>
       </thead>
       <tbody>
         <tr>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td></td>
+          <td className=" px-3 py-6"></td>
+          <td className=" px-3 py-6"></td>
+          <td className=" px-3 py-6"></td>
+          <td className=" px-3 py-6"></td>
+          <td className=" px-3 py-6"></td>
         </tr>
       </tbody>
     </table>
